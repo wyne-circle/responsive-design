@@ -1,0 +1,12 @@
+header, footer {
+  background-color: purple;
+  height: 400px;
+}
+article {
+  background-color: teal;
+  height: 400px;
+}
+aside {
+  background-color: aquamarine;
+  height: 400px;
+}
